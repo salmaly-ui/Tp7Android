@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
         if (item.getItemId() == R.id.action_share) {
             ShareCompat.IntentBuilder.from(this)
                     .setType("text/plain")
-                    .setChooserTitle("Partager l'application")
+                    .setChooserTitle("Partager l'application  .")
                     .setText("Découvrez StarsGallery !")
                     .startChooser();
             return true;
