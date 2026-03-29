@@ -92,7 +92,7 @@ ryan_reynolds.png
 ## Auteur
 
 Salma Laouy
-Étudiante en 2ème année Informatique
+Étudiante en 3ème année Informatique
 École Normale Supérieure - Marrakech
 
 ---
