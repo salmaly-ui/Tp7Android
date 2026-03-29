@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StarsGallery</string>
+    <string name="celebrity_image">Image de la célébrité</string>
+    <string name="celebrity_name_placeholder">Nom</string>
+    <string name="logo">Logo de l application</string>
+</resources>
